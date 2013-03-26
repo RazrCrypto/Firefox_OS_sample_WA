@@ -1,4 +1,4 @@
 Firefox_OS_sample_WA
 ====================
 
-Firefox OS sample Web App containing the manifest file !
+Firefox OS Html 5 Web App containing the manifest file !
