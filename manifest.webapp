@@ -1,0 +1,15 @@
+{
+
+   "version" : "1.0",
+   "name" : "Html 5 Tutorial",
+   "description" : "Html 5 learning app",
+   "launch_path" : "http://www.html5rocks.com/en/",
+   "icons" : {
+  	"128" : "http://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"
+	     },
+    "developer" : {
+			"name" : "Parag Acharyya",
+			"url" : "http://www.github.com/baabi92"
+		  },
+    "default_locale" : "en"
+}
